@@ -1,0 +1,49 @@
+position,features_list
+QB,"Cmp%, QBR, Int%, Sk%, TD%"
+RB,"Rec_Ctch%, Rus_Y/A, Rus_Y/G, Rus_A/G, Fum_Fmb"
+WR,"Rec_Ctch%, Rec_Y/Tgt, Rec_Tgt, AllTD, Rec_Yds"
+OL,
+TE,"Rec_Ctch%, Rec_Y/Tgt, Rec_Tgt, AllTD, Rec_Yds"
+DL,
+LB,"Tac_Ast, Tac_Comb, Tac_Solo, Fum_FF, Sk"
+CB,"Tac_Solo, Tac_Ast, Def_Int, Tac_Comb, Fum_FF"
+S,"Tac_Solo, Tac_Ast, Int, Tac_Comb, Fum_FF"
+K,"Sco_FG%, Sco_XP%, Kic_TB%, Kic_KOAvg, Kic_Lng"
+P,"Pun_Lng, Kic_TB%, Kic_KOAvg, Pun_Y/P, Pun_Pnt"
+FS,"Tac_Solo, Tac_Ast, Def_Int, Tac_Comb, Fum_FF"
+DB,
+OT,
+DE,"Tac_Ast, Tac_Solo, Fum_FF, QBHits, Sk"
+T,
+C,"Fum, Fum_FF, FR, Yds, Tac_Solo "
+G,"Tac_Comb, Tac_Ast, Fum_FF, FR, Yds"
+OLB,"Tac_Ast, Tac_Comb, Tac_Solo, Fum_FF, Sk"
+ILB,"Tac_Ast, Tac_Comb, Tac_Solo, Fum_FF, Sk"
+EDGE,
+DT,"Sk, Tac_Solo, Fum_FF, FR, Tac_Comb"
+SS,"Tac_Solo, Tac_Ast, Def_Int, Tac_Comb, Fum_FF"
+OG,
+FB,"Rec_Ctch%, Y/Tch, T/R, Fum, Yds"
+LCB,
+RDE,
+RILB,
+RCB,
+RDT,
+LDE,
+RT/LT,
+LT,"Sk, Tac_Solo, Fum_FF, FR, Tac_Comb"
+RLB,
+MLB,
+LILB,
+FS/SS,
+RT,"Sk, Tac_Solo, Fum_FF, FR, Tac_Comb"
+LOLB,
+LLB,
+LDE/RDE,
+SS/FS,
+LCB/RCB,
+WR/QB,
+ROLB/LOL,
+LDT,
+ROLB,
+nan,

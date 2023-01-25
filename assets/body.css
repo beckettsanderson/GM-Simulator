@@ -1,0 +1,14 @@
+body {
+    background-color: #191919;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: white;
+    padding: 12px;
+    margin: 0;
+}
+
+label {
+    color: white;
+    font-size: 100vh;
+}
